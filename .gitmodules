@@ -1,0 +1,3 @@
+[submodule "edrdos"]
+	path = edrdos
+	url = https://github.com/SvarDOS/edrdos.git
